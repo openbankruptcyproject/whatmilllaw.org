@@ -17,18 +17,18 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>What is a Bankruptcy Mill? - Whatmilllaw</title>
-<meta content="Learn about what is a bankruptcy mill? | whatmilllaw.org in our free 2026 guide. Clear explanations, real data, and practical steps." name="description"/>
-<link href="https://whatmilllaw.org/what-is-mill-law.html" rel="canonical"/>
-<meta content="What is a Bankruptcy Mill? - Whatmilllaw" property="og:title"/>
-<meta content="Learn about what is a bankruptcy mill? | whatmilllaw.org in our free 2026 guide. Clear explanations, real data, and practical steps." property="og:description"/>
+<title>How High-Volume Practices Affect Bankruptcy Cases - Whatmilllaw</title>
+<meta content="Learn about how high-volume practices affect bankruptcy cases | whatmilllaw.org in our free 2026 guide. Clear explanations, real data, and p..." name="description"/>
+<link href="https://whatmilllaw.org/case-impact.html" rel="canonical"/>
+<meta content="How High-Volume Practices Affect Bankruptcy Cases - Whatmilllaw" property="og:title"/>
+<meta content="Learn about how high-volume practices affect bankruptcy cases | whatmilllaw.org in our free 2026 guide. Clear explanations, real data, and p..." property="og:description"/>
 <meta content="website" property="og:type"/>
-<meta content="https://whatmilllaw.org/what-is-mill-law.html" property="og:url"/>
+<meta content="https://whatmilllaw.org/case-impact.html" property="og:url"/>
 <meta content="whatmilllaw.org" property="og:site_name"/>
 <meta content="https://whatmilllaw.org/og-image.svg" property="og:image"/>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="What is a Bankruptcy Mill? - Whatmilllaw" name="twitter:title"/>
-<meta content="Learn about what is a bankruptcy mill? | whatmilllaw.org in our free 2026 guide. Clear explanations, real data, and practical steps." name="twitter:description"/>
+<meta content="How High-Volume Practices Affect Bankruptcy Cases - Whatmilllaw" name="twitter:title"/>
+<meta content="Learn about how high-volume practices affect bankruptcy cases | whatmilllaw.org in our free 2026 guide. Clear explanations, real data, and p..." name="twitter:description"/>
 <meta content="https://whatmilllaw.org/og-image.svg" name="twitter:image"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
 <link href="/manifest.json" rel="manifest"/>
@@ -42,8 +42,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "What is a Bankruptcy Mill?",
-      "description": "What is a Bankruptcy Mill?",
+      "headline": "How High-Volume Practices Affect Your Case",
+      "description": "How High-Volume Practices Affect Bankruptcy Cases",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -55,7 +55,7 @@
       },
       "datePublished": "2026-04-05",
       "dateModified": "2026-04-05",
-      "mainEntityOfPage": "https://whatmilllaw.org/what-is-mill-law.html"
+      "mainEntityOfPage": "https://whatmilllaw.org/case-impact.html"
     },
     {
       "@type": "BreadcrumbList",
@@ -69,21 +69,21 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "What is a Bankruptcy Mill? | whatmilllaw.org",
+          "name": "How High-Volume Practices Affect Bankruptcy Cases | whatmilllaw.org",
           "item": "https://whatmilllaw.org"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "What is a Bankruptcy Mill?",
-          "item": "https://whatmilllaw.org/what-is-mill-law.html"
+          "name": "How High-Volume Practices Affect Your Case",
+          "item": "https://whatmilllaw.org/case-impact.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "name": "What is a Bankruptcy Mill?",
-      "url": "https://whatmilllaw.org/what-is-mill-law.html",
+      "name": "How High-Volume Practices Affect Your Case",
+      "url": "https://whatmilllaw.org/case-impact.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -318,29 +318,8 @@
 
 .breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
 </style>
-<link href="https://whatmilllaw.org/what-is-mill-law.html" hreflang="en" rel="alternate"/>
-<link href="https://whatmilllaw.org/what-is-mill-law-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://whatmilllaw.org/case-impact.html" hreflang="en" rel="alternate"/>
+<link href="https://whatmilllaw.org/case-impact-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <nav aria-label="Main navigation">
@@ -349,8 +328,8 @@
 <div class="nav-links" id="nav-links">
 <a class="" href="/">Home</a>
 <a href="/warning-signs.html">Warning Signs of a</a>
-<a href="/case-impact.html">How High-Volume Practices Affect</a>
-<a class="active" href="/what-is-mill-law.html">What is a Bankruptcy</a>
+<a class="active" href="/case-impact.html">How High-Volume Practices Affect</a>
+<a href="/what-is-mill-law.html">What is a Bankruptcy</a>
 <a href="/protecting-yourself.html">Protecting Yourself from Poor</a>
 <a href="/academic-research.html">Academic Research on Bankruptcy</a>
 <a href="/ust-oversight.html">U.S. Trustee Oversight of</a>
@@ -370,29 +349,29 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 <div class="hero">
-<h1>What is a <span class="accent">Bankruptcy Mill?</span></h1>
+<h1>How High-Volume Practices <span class="accent">Affect Your Case</span></h1>
 </div>
 <main id="main-content">
-<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://1328f.org">Home</a><span class="separator">›</span><a href="https://whatmilllaw.org">What is a Bankruptcy Mill? | whatmilllaw.org</a><span class="separator">›</span><span>What is a Bankruptcy Mill?</span></nav>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://1328f.org">Home</a><span class="separator">›</span><a href="https://whatmilllaw.org">How High-Volume Practices Affect Bankruptcy Cases | whatmilllaw.org</a><span class="separator">›</span><span>How High-Volume Practices Affect Your Case</span></nav>
 <div class="content-section">
-<h2>Defining the term</h2>
-<p>"<a href="https://bankruptcymill.org" rel="noopener" target="_blank" title="Bankruptcy Mills - Open Bankruptcy Project">Bankruptcy mill</a>" is an informal term - it has no legal definition. It generally refers to law firms that handle an unusually high volume of bankruptcy cases, often with a business model built around advertising, low fees, and rapid throughput.</p>
-<h3>Common characteristics</h3>
+<h2>Potential impacts on case outcomes</h2>
+<p>Research has examined how attorney practice models affect bankruptcy case outcomes. Understanding these findings helps you evaluate the representation you are receiving.</p>
+<h3>Common issues in high-volume cases</h3>
 <ul>
-<li>Hundreds or thousands of cases filed per year per firm</li>
-<li>Heavy reliance on non-attorney staff for case preparation</li>
-<li>Standardized processes that prioritize efficiency over customization</li>
-<li>Significant marketing budgets</li>
-<li>Multiple office locations or satellite offices</li>
+<li><strong>Higher <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a> rates</strong> - Research suggests that cases handled by very high-volume practices may face higher <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a> rates, particularly in <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a></li>
+<li><strong>Less individualized planning</strong> - Cookie-cutter approaches may miss opportunities to protect assets or structure payment plans optimally</li>
+<li><strong>Communication gaps</strong> - When staff turns over frequently or caseloads are too high, client communication suffers</li>
+<li><strong>Missed issues</strong> - Potential adversary proceedings, preference actions, or lien avoidance opportunities may go unidentified</li>
 </ul>
-<h3>The debate</h3>
-<p>There are legitimate perspectives on both sides of this issue:</p>
+<h3>What the research shows</h3>
+<p>Academic research on bankruptcy attorney performance is limited but growing. Studies published in law reviews and economics journals have examined relationships between attorney caseload, case outcomes, and client satisfaction. Key findings include:</p>
 <ul>
-<li><strong>In favor:</strong> High-volume practices provide access to bankruptcy protection for people who cannot afford premium legal fees. They develop efficient systems and deep procedural expertise.</li>
-<li><strong>Against:</strong> Volume can come at the expense of individual attention, leading to errors, missed opportunities, and higher <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a> rates. Clients may never speak directly to the attorney handling their case.</li>
+<li>Attorney quality significantly affects <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> completion rates</li>
+<li>Debtors represented by repeat-player attorneys may fare better on some metrics but not all</li>
+<li>Geographic variation in attorney markets affects available choices for consumers</li>
 </ul>
 <div class="statute-box">
-<p><strong>Regulatory response:</strong> The <a href="https://www.justice.gov/ust" rel="noopener" target="_blank">U.S. Trustee Program</a> monitors attorney behavior in bankruptcy cases. Under 11 U.S.C. <a href="https://www.law.cornell.edu/uscode/text/11/707#b_0" rel="noopener" target="_blank">Section 707(b)</a>(4), attorneys can face sanctions for filing petitions without reasonable investigation into the accuracy of the information.</p>
+<p><strong>Further reading:</strong> The <a href="https://www.fjc.gov/" rel="noopener" target="_blank">Federal Judicial Center</a>'s Integrated Database at <a href="https://www.fjc.gov/research/idb" rel="noopener" target="_blank">fjc.gov</a> provides data on millions of bankruptcy cases that researchers use to study these questions.</p>
 </div>
 </div>
 <div style="text-align:center;margin:2rem 0">
@@ -410,7 +389,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 </div>
 <div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:2rem auto 1rem">
-<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding <a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a> access fees and bankruptcy court transparency research.</p>
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding <a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a> access fees and bankruptcy court transparency research.</p>
 <a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
 </div>
 </main>
@@ -438,7 +417,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
 <ul style="list-style:none;padding:0;margin:0">
 <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=whatmilllaw.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
-<li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=whatmilllaw.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://bankruptcystudentloans.org/?utm_source=whatmilllaw.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Student Loans in Bankruptcy</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcystudentloans.org</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://openbankruptcyproject.org/?utm_source=whatmilllaw.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Open Bankruptcy Project</a> <span style="color:#7d8590;font-size:0.8rem">-- openbankruptcyproject.org</span></li>
 </ul>
 </div>

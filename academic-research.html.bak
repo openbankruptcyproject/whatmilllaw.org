@@ -16,18 +16,18 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
-<title>Protecting Yourself from Poor Bankruptcy Representation - Whatmilllaw</title>
-<meta name="description" content="Learn about protecting yourself from poor bankruptcy representation | whatmilllaw.org in our free 2026 guide.">
-<link rel="canonical" href="https://whatmilllaw.org/protecting-yourself.html">
-<meta property="og:title" content="Protecting Yourself from Poor Bankruptcy Representation - Whatmilllaw">
-<meta property="og:description" content="Learn about protecting yourself from poor bankruptcy representation | whatmilllaw.org in our free 2026 guide.">
+<title>Academic Research on Bankruptcy Attorney Quality - Whatmilllaw</title>
+<meta name="description" content="Learn about academic research on bankruptcy attorney quality | whatmilllaw.org in our free 2026 guide. Clear explanations, real data, and pr...">
+<link rel="canonical" href="https://whatmilllaw.org/academic-research.html">
+<meta property="og:title" content="Academic Research on Bankruptcy Attorney Quality - Whatmilllaw">
+<meta property="og:description" content="Learn about academic research on bankruptcy attorney quality | whatmilllaw.org in our free 2026 guide. Clear explanations, real data, and pr...">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://whatmilllaw.org/protecting-yourself.html">
+<meta property="og:url" content="https://whatmilllaw.org/academic-research.html">
 <meta property="og:site_name" content="whatmilllaw.org">
 <meta property="og:image" content="https://whatmilllaw.org/og-image.svg">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Protecting Yourself from Poor Bankruptcy Representation - Whatmilllaw">
-<meta name="twitter:description" content="Learn about protecting yourself from poor bankruptcy representation | whatmilllaw.org in our free 2026 guide.">
+<meta name="twitter:title" content="Academic Research on Bankruptcy Attorney Quality - Whatmilllaw">
+<meta name="twitter:description" content="Learn about academic research on bankruptcy attorney quality | whatmilllaw.org in our free 2026 guide. Clear explanations, real data, and pr...">
 <meta name="twitter:image" content="https://whatmilllaw.org/og-image.svg">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="manifest" href="/manifest.json">
@@ -42,8 +42,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Protecting Yourself from Poor Representation",
-      "description": "Protecting Yourself from Poor Bankruptcy Representation",
+      "headline": "Academic Research on Attorney Quality",
+      "description": "Academic Research on Bankruptcy Attorney Quality",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -53,9 +53,9 @@
         "name": "Open Bankruptcy Project",
         "url": "https://1328f.org"
       },
-      "datePublished": "2026-04-02",
+      "datePublished": "2026-04-05",
       "dateModified": "2026-04-05",
-      "mainEntityOfPage": "https://whatmilllaw.org/protecting-yourself.html"
+      "mainEntityOfPage": "https://whatmilllaw.org/academic-research.html"
     },
     {
       "@type": "BreadcrumbList",
@@ -69,21 +69,21 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Protecting Yourself from Poor Bankruptcy Representation | whatmilllaw.org",
+          "name": "Academic Research on Bankruptcy Attorney Quality | whatmilllaw.org",
           "item": "https://whatmilllaw.org"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Protecting Yourself from Poor Representation",
-          "item": "https://whatmilllaw.org/protecting-yourself.html"
+          "name": "Academic Research on Attorney Quality",
+          "item": "https://whatmilllaw.org/academic-research.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "name": "Protecting Yourself from Poor Representation",
-      "url": "https://whatmilllaw.org/protecting-yourself.html",
+      "name": "Academic Research on Attorney Quality",
+      "url": "https://whatmilllaw.org/academic-research.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -319,33 +319,8 @@
 .breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
 </style>
 
-<script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How to ensure quality representation regardless of firm size?", "acceptedAnswer": {"@type": "Answer", "text": "Whether your attorney is a solo practitioner or part of a large firm, these steps help ensure you receive competent representation."}}, {"@type": "Question", "name": "If problems arise?", "acceptedAnswer": {"@type": "Answer", "text": "Raise concerns in writing immediately Escalate to firm management if your attorney is unresponsive Contact the U.S."}}]}
-</script>
-
-<link rel="alternate" hreflang="en" href="https://whatmilllaw.org/protecting-yourself.html">
-<link rel="alternate" hreflang="es" href="https://whatmilllaw.org/protecting-yourself-es.html">
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link rel="alternate" hreflang="en" href="https://whatmilllaw.org/academic-research.html">
+<link rel="alternate" hreflang="es" href="https://whatmilllaw.org/academic-research-es.html">
 </head>
 <body>
 <nav aria-label="Main navigation">
@@ -356,8 +331,8 @@
     <a href="/warning-signs.html">Warning Signs of a</a>
     <a href="/case-impact.html">How High-Volume Practices Affect</a>
     <a href="/what-is-mill-law.html">What is a Bankruptcy</a>
-    <a href="/protecting-yourself.html" class="active">Protecting Yourself from Poor</a>
-    <a href="/academic-research.html">Academic Research on Bankruptcy</a>
+    <a href="/protecting-yourself.html">Protecting Yourself from Poor</a>
+    <a href="/academic-research.html" class="active">Academic Research on Bankruptcy</a>
     <a href="/ust-oversight.html">U.S. Trustee Oversight of</a>
   </div>
 </nav>
@@ -377,48 +352,34 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 <div class="hero">
-  <h1>Protecting Yourself from <span class='accent'>Poor Representation</span></h1>
+  <h1>Academic Research on <span class="accent">Attorney Quality</span></h1>
 </div>
 
 <main id="main-content">
-<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://whatmilllaw.org">Protecting Yourself from Poor Bankruptcy Representation | whatmilllaw.org</a><span class="separator">&rsaquo;</span><span>Protecting Yourself from Poor Representation</span></nav>
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://whatmilllaw.org">Academic Research on Bankruptcy Attorney Quality | whatmilllaw.org</a><span class="separator">&rsaquo;</span><span>Academic Research on Attorney Quality</span></nav>
 
 
 
 <div class="content-section">
-  <h2>How to ensure quality representation regardless of firm size</h2>
-  <p>Whether your attorney is a solo practitioner or part of a large firm, these steps help ensure you receive competent representation.</p>
+  <h2>What scholars have found</h2>
+  <p>A growing body of academic research examines the relationship between attorney practice characteristics and bankruptcy case outcomes. This page summarizes key findings from published research.</p>
 
-  <h3>Before hiring</h3>
+  <h3>Key studies and findings</h3>
   <ul>
-    <li>Meet with the attorney (not just staff) before signing anything</li>
-    <li>Ask who will actually handle your case day-to-day</li>
-    <li>Get a clear, written fee agreement</li>
-    <li>Check the attorney's bar status and disciplinary history</li>
-    <li>Ask about their caseload and how they manage it</li>
-    <li>Consult with at least two or three attorneys before deciding</li>
+    <li><strong>Attorney effects on <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> completion:</strong> Research has shown that attorney identity is a significant predictor of whether a <a href="https://chapter13plan.org" title="Chapter 13 Repayment Plan - Open Bankruptcy Project" target="_blank" rel="noopener">Chapter 13 plan</a> is successfully completed. Some attorneys consistently achieve higher completion rates than others, even after controlling for debtor characteristics.</li>
+    <li><strong>Caseload and outcomes:</strong> Studies examining the relationship between attorney caseload and case outcomes have found mixed results, with some suggesting that very high caseloads correlate with worse outcomes, while others find that experienced high-volume attorneys develop expertise that benefits clients.</li>
+    <li><strong>Access to justice:</strong> Research on the bankruptcy attorney market highlights that in many districts, consumers have limited choices, particularly in rural areas. High-volume practices may be the only option available.</li>
   </ul>
 
-  <h3>During your case</h3>
+  <h3>Research resources</h3>
   <ul>
-    <li>Review every document before it is filed - you sign under penalty of perjury</li>
-    <li>Monitor your docket on <a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a> periodically</li>
-    <li>Keep copies of all correspondence and documents</li>
-    <li>Document all communications with the firm</li>
-    <li>Ask questions about anything you do not understand</li>
+    <li><a href="https://www.fjc.gov/research/idb" target="_blank" rel="noopener">FJC Integrated Database</a> - Free public data on millions of bankruptcy cases</li>
+    <li><a href="https://scholar.google.com/scholar?q=bankruptcy+attorney+quality+outcomes" target="_blank" rel="noopener">Google Scholar</a> - Search for academic papers on bankruptcy attorney quality</li>
+    <li><a href="https://www.consumerfinance.gov/" target="_blank" rel="noopener">CFPB</a> - Consumer Financial Protection Bureau research</li>
   </ul>
 
-  <h3>If problems arise</h3>
-  <ul>
-    <li>Raise concerns in writing immediately</li>
-    <li>Escalate to firm management if your attorney is unresponsive</li>
-    <li>Contact the U.S. Trustee's office if you believe filings contain errors</li>
-    <li>Contact the state bar if ethical rules are being violated</li>
-    <li>Consult another attorney if you are considering a change</li>
-  </ul>
-
-  <div class="green-box">
-    <p><strong>Your most important tool:</strong> Review your petition and schedules carefully before signing. You are signing under penalty of perjury that the information is true and correct. If something is wrong, insist it be corrected before filing.</p>
+  <div class="statute-box">
+    <p><strong>Open data:</strong> Researchers increasingly use <a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a> data and the FJC's Integrated Database to study these questions empirically. Making court data more accessible accelerates this research.</p>
   </div>
 </div>
 
@@ -440,7 +401,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 
 <div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:2rem auto 1rem">
-<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding <a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a> access fees and bankruptcy court transparency research.</p>
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding <a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a> access fees and bankruptcy court transparency research.</p>
 <a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s" onmouseover="this.style.background='#9e2c6f'" onmouseout="this.style.background='#bf3989'">&#9829; Sponsor</a>
 </div>
 

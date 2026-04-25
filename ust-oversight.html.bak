@@ -17,18 +17,18 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>What is a Bankruptcy Mill? - Whatmilllaw</title>
-<meta content="Learn about what is a bankruptcy mill? | whatmilllaw.org in our free 2026 guide. Clear explanations, real data, and practical steps." name="description"/>
-<link href="https://whatmilllaw.org/what-is-mill-law.html" rel="canonical"/>
-<meta content="What is a Bankruptcy Mill? - Whatmilllaw" property="og:title"/>
-<meta content="Learn about what is a bankruptcy mill? | whatmilllaw.org in our free 2026 guide. Clear explanations, real data, and practical steps." property="og:description"/>
+<title>U.S. Trustee Oversight of Bankruptcy Attorneys - Whatmilllaw</title>
+<meta content="Learn about u.s. trustee oversight of bankruptcy attorneys | whatmilllaw.org in our free 2026 guide. Clear explanations, real data, and prac..." name="description"/>
+<link href="https://whatmilllaw.org/ust-oversight.html" rel="canonical"/>
+<meta content="U.S. Trustee Oversight of Bankruptcy Attorneys - Whatmilllaw" property="og:title"/>
+<meta content="Learn about u.s. trustee oversight of bankruptcy attorneys | whatmilllaw.org in our free 2026 guide. Clear explanations, real data, and prac..." property="og:description"/>
 <meta content="website" property="og:type"/>
-<meta content="https://whatmilllaw.org/what-is-mill-law.html" property="og:url"/>
+<meta content="https://whatmilllaw.org/ust-oversight.html" property="og:url"/>
 <meta content="whatmilllaw.org" property="og:site_name"/>
 <meta content="https://whatmilllaw.org/og-image.svg" property="og:image"/>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="What is a Bankruptcy Mill? - Whatmilllaw" name="twitter:title"/>
-<meta content="Learn about what is a bankruptcy mill? | whatmilllaw.org in our free 2026 guide. Clear explanations, real data, and practical steps." name="twitter:description"/>
+<meta content="U.S. Trustee Oversight of Bankruptcy Attorneys - Whatmilllaw" name="twitter:title"/>
+<meta content="Learn about u.s. trustee oversight of bankruptcy attorneys | whatmilllaw.org in our free 2026 guide. Clear explanations, real data, and prac..." name="twitter:description"/>
 <meta content="https://whatmilllaw.org/og-image.svg" name="twitter:image"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
 <link href="/manifest.json" rel="manifest"/>
@@ -42,8 +42,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "What is a Bankruptcy Mill?",
-      "description": "What is a Bankruptcy Mill?",
+      "headline": "U.S. Trustee Oversight",
+      "description": "U.S. Trustee Oversight of Bankruptcy Attorneys",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -55,7 +55,7 @@
       },
       "datePublished": "2026-04-05",
       "dateModified": "2026-04-05",
-      "mainEntityOfPage": "https://whatmilllaw.org/what-is-mill-law.html"
+      "mainEntityOfPage": "https://whatmilllaw.org/ust-oversight.html"
     },
     {
       "@type": "BreadcrumbList",
@@ -69,21 +69,21 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "What is a Bankruptcy Mill? | whatmilllaw.org",
+          "name": "U.S. Trustee Oversight of Bankruptcy Attorneys | whatmilllaw.org",
           "item": "https://whatmilllaw.org"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "What is a Bankruptcy Mill?",
-          "item": "https://whatmilllaw.org/what-is-mill-law.html"
+          "name": "U.S. Trustee Oversight",
+          "item": "https://whatmilllaw.org/ust-oversight.html"
         }
       ]
     },
     {
       "@type": "WebPage",
-      "name": "What is a Bankruptcy Mill?",
-      "url": "https://whatmilllaw.org/what-is-mill-law.html",
+      "name": "U.S. Trustee Oversight",
+      "url": "https://whatmilllaw.org/ust-oversight.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -318,29 +318,11 @@
 
 .breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
 </style>
-<link href="https://whatmilllaw.org/what-is-mill-law.html" hreflang="en" rel="alternate"/>
-<link href="https://whatmilllaw.org/what-is-mill-law-es.html" hreflang="es" rel="alternate"/>
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How the U.S. Trustee monitors attorney conduct?", "acceptedAnswer": {"@type": "Answer", "text": "The United States Trustee Program (USTP) is a component of the Department of Justice that oversees the administration of bankruptcy cases. Part of that oversight includes monitoring attorney conduct."}}, {"@type": "Question", "name": "What the U.S. Trustee monitors?", "acceptedAnswer": {"@type": "Answer", "text": "Fee reasonableness - Reviewing attorney fee disclosures under Section 329 Petition accuracy - Checking for patterns of inaccurate filings under Section 707(b)(4) Debtor audit compliance - Ensuring random audit requirements are met Means test compliance - Reviewing means test calculations for..."}}, {"@type": "Question", "name": "How to contact the U.S. Trustee?", "acceptedAnswer": {"@type": "Answer", "text": "Each federal judicial region has a U.S. Trustee's office. Find yours at justice.gov/ust . You can report concerns about attorney conduct, fee issues, or case irregularities."}}]}
 </script>
+<link href="https://whatmilllaw.org/ust-oversight.html" hreflang="en" rel="alternate"/>
+<link href="https://whatmilllaw.org/ust-oversight-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <nav aria-label="Main navigation">
@@ -350,10 +332,10 @@
 <a class="" href="/">Home</a>
 <a href="/warning-signs.html">Warning Signs of a</a>
 <a href="/case-impact.html">How High-Volume Practices Affect</a>
-<a class="active" href="/what-is-mill-law.html">What is a Bankruptcy</a>
+<a href="/what-is-mill-law.html">What is a Bankruptcy</a>
 <a href="/protecting-yourself.html">Protecting Yourself from Poor</a>
 <a href="/academic-research.html">Academic Research on Bankruptcy</a>
-<a href="/ust-oversight.html">U.S. Trustee Oversight of</a>
+<a class="active" href="/ust-oversight.html">U.S. Trustee Oversight of</a>
 </div>
 </nav>
 <div class="obp-banner" style="background:#151b23;border-bottom:1px solid #252d38;padding:8px 16px;text-align:center;font-size:0.82rem;color:#7d8590;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
@@ -370,29 +352,34 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 <div class="hero">
-<h1>What is a <span class="accent">Bankruptcy Mill?</span></h1>
+<h1>U.S. Trustee <span class="accent">Oversight</span></h1>
 </div>
 <main id="main-content">
-<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://1328f.org">Home</a><span class="separator">›</span><a href="https://whatmilllaw.org">What is a Bankruptcy Mill? | whatmilllaw.org</a><span class="separator">›</span><span>What is a Bankruptcy Mill?</span></nav>
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://1328f.org">Home</a><span class="separator">›</span><a href="https://whatmilllaw.org">U.S. Trustee Oversight of Bankruptcy Attorneys | whatmilllaw.org</a><span class="separator">›</span><span>U.S. Trustee Oversight</span></nav>
 <div class="content-section">
-<h2>Defining the term</h2>
-<p>"<a href="https://bankruptcymill.org" rel="noopener" target="_blank" title="Bankruptcy Mills - Open Bankruptcy Project">Bankruptcy mill</a>" is an informal term - it has no legal definition. It generally refers to law firms that handle an unusually high volume of bankruptcy cases, often with a business model built around advertising, low fees, and rapid throughput.</p>
-<h3>Common characteristics</h3>
+<h2>How the U.S. Trustee monitors attorney conduct</h2>
+<p>The United States Trustee Program (USTP) is a component of the Department of Justice that oversees the administration of bankruptcy cases. Part of that oversight includes monitoring attorney conduct.</p>
+<h3>What the U.S. Trustee monitors</h3>
 <ul>
-<li>Hundreds or thousands of cases filed per year per firm</li>
-<li>Heavy reliance on non-attorney staff for case preparation</li>
-<li>Standardized processes that prioritize efficiency over customization</li>
-<li>Significant marketing budgets</li>
-<li>Multiple office locations or satellite offices</li>
+<li><strong>Fee reasonableness</strong> - Reviewing attorney fee disclosures under <a href="https://section329.org" rel="noopener" target="_blank" title="Section 329 Attorney Fee Disgorgement - Open Bankruptcy Project">Section 329</a></li>
+<li><strong>Petition accuracy</strong> - Checking for patterns of inaccurate filings under <a href="https://www.law.cornell.edu/uscode/text/11/707#b_0" rel="noopener" target="_blank">Section 707(b)</a>(4)</li>
+<li><strong>Debtor audit compliance</strong> - Ensuring random audit requirements are met</li>
+<li><strong><a href="https://meanstest.org/" title="means test">Means test</a> compliance</strong> - Reviewing <a href="https://meanstest.org" rel="noopener" target="_blank" title="Bankruptcy Means Test - Open Bankruptcy Project">means test</a> calculations for accuracy</li>
+<li><strong>Pattern filing issues</strong> - Identifying attorneys whose cases show patterns of problems (high <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a> rates, frequent amendments)</li>
 </ul>
-<h3>The debate</h3>
-<p>There are legitimate perspectives on both sides of this issue:</p>
+<h3>How to contact the U.S. Trustee</h3>
+<p>Each federal judicial region has a U.S. Trustee's office. Find yours at <a href="https://www.justice.gov/ust/eo/ust_org/map.htm" rel="noopener" target="_blank">justice.gov/ust</a>. You can report concerns about attorney conduct, fee issues, or case irregularities.</p>
+<h3>U.S. Trustee actions</h3>
+<p>The U.S. Trustee can:</p>
 <ul>
-<li><strong>In favor:</strong> High-volume practices provide access to bankruptcy protection for people who cannot afford premium legal fees. They develop efficient systems and deep procedural expertise.</li>
-<li><strong>Against:</strong> Volume can come at the expense of individual attention, leading to errors, missed opportunities, and higher <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a> rates. Clients may never speak directly to the attorney handling their case.</li>
+<li>File motions to review attorney fees</li>
+<li>Seek sanctions against attorneys who file inaccurate petitions</li>
+<li>Refer attorneys to state bar disciplinary authorities</li>
+<li>File motions to dismiss or convert improperly filed cases</li>
+<li>Object to fee applications in <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> cases</li>
 </ul>
-<div class="statute-box">
-<p><strong>Regulatory response:</strong> The <a href="https://www.justice.gov/ust" rel="noopener" target="_blank">U.S. Trustee Program</a> monitors attorney behavior in bankruptcy cases. Under 11 U.S.C. <a href="https://www.law.cornell.edu/uscode/text/11/707#b_0" rel="noopener" target="_blank">Section 707(b)</a>(4), attorneys can face sanctions for filing petitions without reasonable investigation into the accuracy of the information.</p>
+<div class="green-box">
+<p><strong>The U.S. Trustee is a resource:</strong> Many debtors do not know that the U.S. Trustee's office exists or that it can help with attorney conduct issues. If you have concerns about your attorney's behavior, contacting the U.S. Trustee is a legitimate option.</p>
 </div>
 </div>
 <div style="text-align:center;margin:2rem 0">
@@ -410,7 +397,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 </div>
 <div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:2rem auto 1rem">
-<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631), funding <a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a> access fees and bankruptcy court transparency research.</p>
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding <a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a> access fees and bankruptcy court transparency research.</p>
 <a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
 </div>
 </main>
